@@ -11,7 +11,7 @@ To get a local copy of this project, run:
 
 ```bash
 git clone https://github.com/KavyaJP/PasswordManager.git
-cd your-repo
+cd PasswordManager
 ```
 
 ---
